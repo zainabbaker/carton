@@ -1,0 +1,12 @@
+body{ background:url("http://www.buy-backdrop.com/imges/cartoon//cartoon/32445468931.jpg");
+background-repeat:no-repeat;
+background-size:cover;
+width: 100%;
+}
+.bird{
+margin-top:20%;
+}
+.skipping{
+margin-top:50%;
+box-sizing:border-box;
+}
